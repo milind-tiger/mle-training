@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import os
 import tarfile
 from six.moves import urllib
-
+ 
 
 DOWNLOAD_ROOT = "https://raw.githubusercontent.com/ageron/handson-ml/master/"
 HOUSING_PATH = os.path.join("datasets", "housing")
