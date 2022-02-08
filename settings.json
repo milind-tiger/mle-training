@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "black",
+    "python.sortImports.args": [
+        "--profile=black"
+    ],
+    "files.trimTrailingWhitespace": true,
+    "editor.formatOnSave": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 79,
+    "python.formatting.blackArgs": [
+        "--line-length",
+        "79"
+    ]
+}
