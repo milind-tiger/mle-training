@@ -1,18 +1,24 @@
-# Median housing value prediction
+<h1> MLE TRAINING </h1>
 
-The housing data can be downloaded from https://raw.githubusercontent.com/ageron/handson-ml/master/. The script has codes to download the data. We have modelled the median house value on given housing data. 
+<h3> Step 1 </h3>
 
-The following techniques have been used: 
+Install git on your local PC <a>https://git-scm.com/downloads</a>
 
- - Linear regression
- - Decision Tree
- - Random Forest
+<h3>Step 2</h3>
 
-## Steps performed
- - We prepare and clean the data. We check and impute for missing values.
- - Features are generated and the variables are checked for correlation.
- - Multiple sampling techinuqies are evaluated. The data set is split into train and test.
- - All the above said modelling techniques are tried and evaluated. The final metric used to evaluate is mean squared error.
+Clone the remote repo <br>
 
-## To excute the script
-python < scriptname.py >
+![image-2.png](attachment:image-2.png)
+
+<h3>Step 3</h3>
+Create virtual environment and activate it
+
+![image-3.png](attachment:image-3.png)
+
+<h3>Step 4</h3>
+
+Run the code file or work in jupyter notebook
+
+For Module 3
+
+Run the train.py folder inside housing folder.

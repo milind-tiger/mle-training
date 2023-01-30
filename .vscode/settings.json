@@ -1,0 +1,10 @@
+{
+    "python.defaultInterpreterPath": "~/miniconda3/envs/mle-dev/bin/python",
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "python.formatting.provider": "black",
+    "python.sortImports.args": [
+        "-rc",
+        "--atomic"
+    ],
+}
