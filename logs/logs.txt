@@ -1,0 +1,2 @@
+2022-06-14 15:00:02 - train.py - <module> - 53 - INFO - Elastic Net Training Started
+2022-06-14 15:00:08 - train.py - <module> - 85 - INFO - Random Forest Training Started
