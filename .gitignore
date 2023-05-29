@@ -1,2 +1,5 @@
 *.pyc
 *.csv
+*.tgz
+*.log
+__pycache__

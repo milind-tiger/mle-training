@@ -1,4 +1,0 @@
-artifact_location: file:///root/taml_project/mle-training/mlruns/1
-experiment_id: '1'
-lifecycle_stage: active
-name: Elastic Net
