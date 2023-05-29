@@ -1,0 +1,13 @@
+README.md
+setup.cfg
+setup.py
+src/housing_package/__init__.py
+src/housing_package/ingest_data.py
+src/housing_package/log_config.py
+src/housing_package/score.py
+src/housing_package/train.py
+src/housing_package.egg-info/PKG-INFO
+src/housing_package.egg-info/SOURCES.txt
+src/housing_package.egg-info/dependency_links.txt
+src/housing_package.egg-info/requires.txt
+src/housing_package.egg-info/top_level.txt
