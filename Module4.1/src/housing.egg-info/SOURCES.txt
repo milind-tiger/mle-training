@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/housing.egg-info/PKG-INFO
+src/housing.egg-info/SOURCES.txt
+src/housing.egg-info/dependency_links.txt
+src/housing.egg-info/requires.txt
+src/housing.egg-info/top_level.txt
+src/housing_package/__init__.py
+src/housing_package/ingest_data.py
+src/housing_package/log_config.py
+src/housing_package/score.py
+src/housing_package/train.py
